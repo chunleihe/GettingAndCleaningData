@@ -54,7 +54,7 @@ There are 5 parts:
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## ```run_analysis.R``` includes the above steps, and details like the following:
+## ```run_analysis.R``` includes the following steps:
 
 
 * Require ```data.table``` library
